@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richstokes&show_icons=true&theme=synthwave)
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richstokes&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richstokes&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
